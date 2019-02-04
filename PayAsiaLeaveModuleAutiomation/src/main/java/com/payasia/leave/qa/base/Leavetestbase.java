@@ -75,7 +75,7 @@ public class Leavetestbase {
 		driver.manage().timeouts().implicitlyWait(TestUtil.IMPLICIT_WAIT, TimeUnit.SECONDS);
 		
 		driver.get(prop.getProperty("url"));
-		
+		System.out.println("My Name is Leave");
 	}
 
 }
