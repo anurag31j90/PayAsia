@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="6" passed="6">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="19822" started-at="2018-12-21T10:37:10Z" finished-at="2018-12-21T10:37:30Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="19822" started-at="2018-12-21T10:37:10Z" finished-at="2018-12-21T10:37:30Z">
+      <class name="com.payasia.leave.qa.testcases.PayAsiaLoginPageTest">
+        <test-method status="PASS" signature="setUp()[pri:0, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="setUp" is-config="true" duration-ms="6338" started-at="2018-12-21T10:37:10Z" finished-at="2018-12-21T10:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method status="PASS" signature="loginPageTitleTest()[pri:1, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="loginPageTitleTest" duration-ms="9" started-at="2018-12-21T10:37:17Z" finished-at="2018-12-21T10:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginPageTitleTest -->
+        <test-method status="PASS" signature="PayaisaLogoImageTest()[pri:2, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="PayaisaLogoImageTest" duration-ms="25" started-at="2018-12-21T10:37:17Z" finished-at="2018-12-21T10:37:17Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- PayaisaLogoImageTest -->
+        <test-method status="PASS" signature="loginTest()[pri:3, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="loginTest" duration-ms="12320" started-at="2018-12-21T10:37:17Z" finished-at="2018-12-21T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+        <test-method status="PASS" signature="verifyHomePageTitleTest()[pri:4, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="verifyHomePageTitleTest" duration-ms="4" started-at="2018-12-21T10:37:29Z" finished-at="2018-12-21T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyHomePageTitleTest -->
+        <test-method status="PASS" signature="verifyUserNameTest()[pri:5, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="verifyUserNameTest" duration-ms="25" started-at="2018-12-21T10:37:29Z" finished-at="2018-12-21T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyUserNameTest -->
+        <test-method status="PASS" signature="leaveMenuNavigation()[pri:6, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="leaveMenuNavigation" duration-ms="275" started-at="2018-12-21T10:37:29Z" finished-at="2018-12-21T10:37:29Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- leaveMenuNavigation -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.payasia.leave.qa.testcases.PayAsiaLoginPageTest@3c0ecd4b]" name="tearDown" is-config="true" duration-ms="798" started-at="2018-12-21T10:37:29Z" finished-at="2018-12-21T10:37:30Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.payasia.leave.qa.testcases.PayAsiaLoginPageTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
